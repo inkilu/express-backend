@@ -1,5 +1,6 @@
 import express from "express";
 import authRotue from './routes/auth.route.js'
+
 const app = express()
 
 app.use(express.json())

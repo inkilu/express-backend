@@ -12,6 +12,7 @@
   "key": "// vscode://Postman.postman-for-vscode?code=c74630b6eb5bece78a126b67c3cb585f343a9e0b041a047adfa9fd02448272d8",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^5.11.0",
     "bcrypt": "^5.1.1",
     "express": "^4.19.2",
     "nodemon": "^3.1.0",
